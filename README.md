@@ -7,7 +7,6 @@
 💻 Previously a Front-End Software Engineering Intern @ **Shopify**  
 📚 Studying Honours Mathematics, **Computer Science Major** @ **University of Waterloo**  
 🧠 Exploring **MCP**, agentic cognition, and building systems that actually do cool things  
-🚀 Co-founder of **Ajniha Academy**, a tutoring service funding global humanitarian work  
 📦 Working on full-stack projects + embedded systems with **C, React, and GraphQL**
 
 ---
