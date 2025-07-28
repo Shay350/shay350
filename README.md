@@ -4,7 +4,6 @@
 
 ### I'm currently:
 
-💻 Front-End Software Engineering Intern @ **Shopify**  
 📚 Honours Mathematics & Computing Minor @ **University of Waterloo**  
 🌱 Working with **React, TypeScript, and GraphQL**  
 ⚙️ Exploring **Embedded Systems** with C and microcontrollers  
