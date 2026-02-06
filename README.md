@@ -2,11 +2,11 @@
 
 ---
 
-### I'm currently:
+### About me
 
-💻 Previously a Software Engineering Intern @ **Shopify**  
+💻 Former Software Engineering Intern @ **Shopify**  
 📚 Studying Honours Mathematics, **Computer Science Major** @ **University of Waterloo**  
-📦 Working on full-stack projects + embedded systems with **TypeScript, Python, React, and SQL**
+📦 Building full-stack and embedded systems with **TypeScript, Python, React, and SQL**
 
 ---
 
